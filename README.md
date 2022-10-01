@@ -1,1 +1,2 @@
-# droughtmonitoring
+# This project details how to compute combined drought index using precipitation and temperature time series data in Google Earth Engine. Combined drought index (cdi) is usually a combination of three indices precipitation index, temperature index, and soil moisture index. In this project, we computed cdi using precipitation and temperature using chirps rainfall data and MODIS land surface temperature data for the year 2010 from January to December.
+# The code is self explanatory and can be used to replicate the results in GEE.
