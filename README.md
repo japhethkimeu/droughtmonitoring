@@ -1,3 +1,4 @@
 # Drought monitoring using precipitation and temperature time series data in Google Earth Engine
-This project details how to compute combined drought index using precipitation and temperature time series data in Google Earth Engine. Combined drought index (cdi) is usually a combination of three indices precipitation index, temperature index, and soil moisture index. In this project, we computed cdi using precipitation and temperature using chirps rainfall data and MODIS land surface temperature data for the year 2010 from January to December.
-The code is self explanatory and can be used to replicate the results in GEE.
+This project details how to assess vegetation health as a proxy for agricultural drought using Vegetation Health Index (VHI). VHI is obtained by the sum of Vegetation Condition Index (VCI) and Temperature Condition Index (TCI). I used MODIS NDVI dataset to compute VCI and MODIS Land Surface Temperature (LST) to compute TCI in Google Earth Engine.
+
+Link to GEE code https://code.earthengine.google.com/a7990d50b5859ee50f9751059e4ae692.
